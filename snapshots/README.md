@@ -34,7 +34,9 @@ Screenshot of successful submission or execution results
 
 ## Adding New Snapshots
 
-1. Create a new subdirectory with the problem name in kebab-case
+1. Create a new subdirectory with the problem name in kebab-case (lowercase with hyphens)
+   - Examples: `find-the-difference`, `merge-strings-alternately`, `move-zeroes`
+   - Convert Java class names like `FindTheDifference` to `find-the-difference`
 2. Add your screenshots following the naming convention above
 3. Reference them in the main README.md if needed
 
